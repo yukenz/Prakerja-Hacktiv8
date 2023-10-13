@@ -27,5 +27,6 @@ ul.appendChild(listLinkBuilder("About", "#about"))
 ul.appendChild(listLinkBuilder("Experience", "#pengalaman"))
 ul.appendChild(listLinkBuilder("Education", "#pendidikan"))
 ul.appendChild(listLinkBuilder("Interest", "#ketertarikan"))
+ul.appendChild(listLinkBuilder("Awards", "#penghargaan"))
 
 menu.appendChild(ul)
